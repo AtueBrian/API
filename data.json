@@ -1,0 +1,92 @@
+{
+  "articulos": [
+    {
+      "id": "msi",
+      "name": "Bicicleta Lauxjack",
+      "price": 155000,
+      "cat": "desktop",
+      "stock": 3,
+      "desc": "Excelente para hacer largos viajes por ruta."
+    },
+    {
+      "id": "asus",
+      "name": "Bicicleta TREK",
+      "price": 200000,
+      "cat": "desktop",
+      "stock": 2,
+      "desc": "Excelente relacion precio/calidad."
+    },
+    {
+      "id": "aorus",
+      "name": "Bicicleta Cannondale",
+      "price": 270000,
+      "cat": "desktop",
+      "stock": 2,
+      "desc": "La Mejor Calidad."
+    },
+    {
+      "id": "hp",
+      "name": "BMX TOX",
+      "price": 182500,
+      "cat": "notebooks",
+      "stock": 4,
+      "desc": "Agil y compacta para jugar e iniciar en el mundo BMX."
+    },
+    {
+      "id": "alienware",
+      "name": "BMX AGENT",
+      "price": 330850,
+      "cat": "notebooks",
+      "stock": 1,
+      "desc": "Calidad para competencias profecionales."
+    },
+    {
+      "id": "samsung",
+      "name": "Bicicleta HotDog",
+      "price": 30000,
+      "cat": "monitors",
+      "stock": 3,
+      "desc": "Muy buena opcion economica."
+    },
+    {
+      "id": "viewsonic",
+      "name": "Bicicleta PIXEL",
+      "price": 49000,
+      "cat": "monitors",
+      "stock": 3,
+      "desc": "Opcion Clidad/Precio."
+    },
+    {
+      "id": "hyperx",
+      "name": "Bicicleta Canasto Mimbre",
+      "price": 12000,
+      "cat": "headsets",
+      "stock": 5,
+      "desc": "bicicleta economica."
+    },
+    {
+      "id": "razer",
+      "name": "Bicleta Moma",
+      "price": 19000,
+      "cat": "headsets",
+      "stock": 6,
+      "desc": "La mejor opcion para la ciudad gracias a sus bolsos impermeables."
+    },
+    {
+      "id": "logitech",
+      "name": "Bicicleta con dinamo",
+      "price": 17000,
+      "cat": "headsets",
+      "stock": 3,
+      "desc": "Perfecta para hacer recorriddos en la noche por la ciudad."
+    },
+    {
+      "id": "asusTuf",
+      "name": "Bicicleta Miko Amaro",
+      "price": 171600,
+      "cat": "monitors",
+      "stock": 4,
+      "desc": "Usada en Competiciones, con la mejor calidad de Aluminio"
+    }
+  ]
+}
